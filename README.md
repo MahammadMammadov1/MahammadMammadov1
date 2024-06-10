@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahammad</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan dedicated to crafting robust and efficient solutions for a seamless digital experience.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:mehemmedmemmedov240@gmail.com</h3>
 <p align="left">
 </p>
 
